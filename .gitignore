@@ -2,7 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+credit_risk_model.ipynb
+dataset
 # C extensions
 *.so
 
